@@ -1,0 +1,26 @@
+_repo: A-Mechanical-Account-of-Poisons-in-Several-Essays_53202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mead, Richard
+    birthdate: 1673
+    deathdate: 1754
+    gutenberg_agent_id: '35057'
+    url: http://www.gutenberg.org/2009/agents/35057
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Mead
+description: ''
+gutenberg_issued: '2016-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Poisons -- Early works to 1800'
+- !lcsh 'Venom -- Physiological effect -- Early works to 1800'
+- GITenberg
+title: A Mechanical Account of Poisons in Several Essays
+url: http://www.gutenberg.org/ebooks/53202
